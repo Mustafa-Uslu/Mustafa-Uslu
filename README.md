@@ -5,7 +5,7 @@
   I'm Mustafa Uslu, Front-End Developer :computer: 
   </br>
   <div>
-  <a href="https://Mustafa.netlify.app/" target="_blank">
+  <a href="https://Mustafa-Uslu.netlify.app/" target="_blank">
 <kbd> <br> Personal Website <br> </kbd>
   </a>
   </div> 
@@ -14,7 +14,7 @@
  </p>
 </br>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=MustafaUslu&count_private=true&show_icons=true&include_all_commits=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Mustafa-Uslu&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MustafaUslu&hide=TeX&layout=compact) </br>
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=MustafaUslu.MustafaUslu)
 
@@ -42,7 +42,7 @@
 ## Contact Me
 
 <p align="center">
-  <a href="https://mustafa.netlify.app/"><img src="https://img.icons8.com/fluent/96/000000/domain.png" alt="darkwood"  width="70" height="70"/></a>
+  <a href="https://Mustafa-Uslu.netlify.app/"><img src="https://img.icons8.com/fluent/96/000000/domain.png" alt="darkwood"  width="70" height="70"/></a>
   <a href="mailto:Mustafauslu.de@gmail.com" target="_blank"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"  width="70" height="70"/></a>
   <a href="https://www.linkedin.com/in/MustafaUslu/" target="_blank"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" width="70" height="70"/></a>
 </p>
